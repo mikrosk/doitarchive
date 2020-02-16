@@ -7,6 +7,6 @@ DoIT Archives as released by ELITE on 10.06.2006
 
 [PROFIJAG - Tips u. Tricks zum 64-Bit Atari Jaguar 3.0](doitjag/profijag.htm)
 
-[DOITLYNX - Tips u. Tricks zum Atari LYNX 2.2](DOITLYNX/doitlynx.htm)
+[DOITLYNX - Tips u. Tricks zum Atari LYNX 2.2](doitlynx/doitlynx.htm)
 
 [DOIT_ST - Tips u. Tricks zur Atari Serie 3.9.8](DOIT_ST/doitst1h.htm)
