@@ -5,7 +5,7 @@ DoIT Archives as released by ELITE on 10.06.2006
 
 [DOITF030 - Tips u. Tricks zum Atari Falcon F030 7.2.5](doitf030/doitf030.htm)
 
-[PROFIJAG - Tips u. Tricks zum 64-Bit Atari Jaguar 3.0](DOITJAG/PROFIJAG.HTM)
+[PROFIJAG - Tips u. Tricks zum 64-Bit Atari Jaguar 3.0](doitjag/profijag.htm)
 
 [DOITLYNX - Tips u. Tricks zum Atari LYNX 2.2](DOITLYNX/doitlynx.htm)
 
