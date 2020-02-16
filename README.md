@@ -9,4 +9,4 @@ DoIT Archives as released by ELITE on 10.06.2006
 
 [DOITLYNX - Tips u. Tricks zum Atari LYNX 2.2](doitlynx/doitlynx.htm)
 
-[DOIT_ST - Tips u. Tricks zur Atari Serie 3.9.8](DOIT_ST/doitst1h.htm)
+[DOIT_ST - Tips u. Tricks zur Atari Serie 3.9.8](doit_st/doitst1h.htm)
