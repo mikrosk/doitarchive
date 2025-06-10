@@ -354,7 +354,7 @@ ST EtherNE contains two types of interface hardware solutions:
 <br>ACSI-ISA interface (below called EtherNEA)
 <br>- hardware design by me
 <br>- hardware is e.g. available from Elmar Hilgart
-elmar.hilgart@asamnet.de, http://www.asamnet.de/&nbsp;hilgarte
+elmar.hilgart@asamnet.de, http://www.asamnet.de/~hilgarte
 <br>- This is suitable for all machines with ACSI bus, e.g. (Mega) ST,
 TT
 <br>
@@ -806,7 +806,7 @@ den Zugang zum <a href="17.htm" target="UDOcon">Internet</a> bereit stellt
 </p>
 <p>Mit
 </p>
-<pre>192.168.1.0  255.255.255.0  EtherNet  192.168.1.10
+<pre>192.168.1.0  255.255.255.0  EtherNet  192.168.1.10
 </pre>
 <p>kann das Interface zwar in seinem lokalen Netz auf die Rechner
 untereinander zugreifen, aber in das <a href="17.htm" target="UDOcon">Internet</a> (WAN) kommt es damit
@@ -817,7 +817,7 @@ Datei DEFAULT.CFG nichts.
 <p>Man kann auch einfach nur folgendes in die ROUTE.TAB eingeben:
 <br>
 </p>
-<pre>0.0.0.0  0.0.0.0  EtherNec  192.168.1.10
+<pre>0.0.0.0  0.0.0.0  EtherNec  192.168.1.10
 </pre>
 <p>Das setzt die Default Route in <a href="1701.htm" target="UDOcon">STinG</a>. Damit gehen alle Zugriffe
 &#166;ber EtherNec automatisch an die Adresse 192.168.1.10, also den
@@ -830,7 +830,7 @@ entweder an andere Rechner im lokalen Netz, oder geht in das <a href="17.htm" ta
 <br>
 </p>
 <pre>
-192.168.1.0  255.255.255.0  EtherNet  192.168.1.10
+192.168.1.0  255.255.255.0  EtherNet  192.168.1.10
 </pre>
 <p>richtet ja nur eine Route f&#166;r das Netz 192.158.1.0 mit der
 Netzmaske 255.255.255.0 ein und gibt an daf&#166;r an die Adresse
@@ -838,7 +838,7 @@ Netzmaske 255.255.255.0 ein und gibt an daf&#166;r an die Adresse
 <br>Erst ein:
 <br>
 </p>
-<pre>0.0.0.0  0.0.0.0  EtherNec  192.168.1.10
+<pre>0.0.0.0  0.0.0.0  EtherNec  192.168.1.10
 </pre>
 <p>richtet dann die Default Route ein, da 0.0.0.0, wie oben schon
 beschrieben, f&#166;r alles steht.
